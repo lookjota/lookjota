@@ -1,97 +1,50 @@
 # Olá, eu sou João Carlos 👋
 
-Desenvolvedor Full Stack brasileiro, focado na construção de aplicações web modernas, APIs REST e sistemas escaláveis.
+💻 Full Stack Developer
 
-Atualmente trabalho principalmente com React, TypeScript, Node.js e PostgreSQL, aplicando princípios de arquitetura de software, organização modular, testes e boas práticas de desenvolvimento.
+Desenvolvo aplicações web modernas utilizando React, TypeScript, Node.js e PostgreSQL.
 
-Também estou estudando desenvolvimento backend com Java e Spring Boot.
+Atualmente estou aprofundando meus conhecimentos em Java e Spring Boot para desenvolvimento backend.
 
-## Sobre mim
+## 🚀 Tecnologias
 
-- 💻 Desenvolvedor Full Stack
-- 🚀 Construindo aplicações web e APIs REST
-- 🌱 Estudando Java, Spring Boot e desenvolvimento backend
-- 🧠 Interessado em arquitetura de software, segurança e engenharia de sistemas
-- 🐧 Usuário Linux
-- 🇧🇷 Brasil
+**Frontend**
 
-## Tecnologias
+React • TypeScript • JavaScript • Vite • HTML • CSS
 
-### Frontend
+**Backend**
 
-- React
-- TypeScript
-- JavaScript
-- Vite
-- HTML
-- CSS
+Node.js • Fastify • Express • REST APIs • JWT • Java • Spring Boot
 
-### Backend
+**Banco de Dados**
 
-- Node.js
-- Fastify
-- Express
-- REST APIs
-- JWT
-- Java — em aprendizado
-- Spring Boot — em aprendizado
+PostgreSQL • MongoDB • Prisma
 
-### Banco de dados
+**Ferramentas**
 
-- PostgreSQL
-- MongoDB
-- Prisma
+Docker • Git • GitHub • Linux • Vitest • ESLint
 
-### Qualidade e infraestrutura
-
-- Git
-- GitHub
-- Docker
-- Vitest
-- ESLint
-- Linux
-
-## Projetos em destaque
+## 📌 Principais Projetos
 
 ### Amigo do Lar
 
-Plataforma para gerenciamento de serviços residenciais, clientes, orçamentos e agendamentos.
+Sistema completo para gerenciamento de clientes, serviços, orçamentos e agendamentos.
 
-O projeto é dividido em frontend e API.
-
-**Principais tecnologias:**
-
-- React
-- TypeScript
-- Node.js
-- Fastify
-- PostgreSQL
-- Prisma
-- Docker
-- Vitest
+**Stack:** React • TypeScript • Node.js • Fastify • PostgreSQL • Prisma • Docker
 
 ### Logos Page Engine
 
-Engine modular para criação de aplicações e páginas comerciais reutilizáveis, com foco em arquitetura orientada a domínio, SEO e renderização moderna.
+Engine modular para construção de aplicações e landing pages reutilizáveis com foco em SEO e arquitetura escalável.
 
-**Principais tecnologias:**
+**Stack:** React • TypeScript • Vite • SSR • SEO
 
-- React
-- TypeScript
-- Vite
-- SSR
-- SEO
-- Arquitetura modular
+## 🌱 Atualmente estudando
 
-## Atualmente estudando
-
-```text
-Java
-Spring Boot
-APIs REST com Java
-Spring Data JPA
-Hibernate
-Arquitetura de software
-Testes automatizados
-Docker
-CI/CD
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Arquitetura de Software
+- Testes Automatizados
+- Docker
+- CI/CD
