@@ -1,50 +1,54 @@
-# Olá, eu sou João Carlos 👋
+# Hi, I'm João Carlos 👋
 
-💻 Full Stack Developer
+**Full Stack Developer | Data Analytics & Business Intelligence**
 
-Desenvolvo aplicações web modernas utilizando React, TypeScript, Node.js e PostgreSQL.
+I build web applications and data-driven tools using React, TypeScript, Node.js, Python and SQL. My work spans frontend and backend engineering, data preparation, analytical dashboards and cloud deployment.
 
-Atualmente estou aprofundando meus conhecimentos em Java e Spring Boot para desenvolvimento backend.
+I'm expanding my portfolio in **Data Analytics / Business Intelligence**, while continuing to develop my backend skills with Java and Spring Boot.
 
-## 🚀 Tecnologias
+## 🛠️ Tech Stack
 
-**Frontend**
+| Area | Technologies |
+| --- | --- |
+| **Data Analytics & BI** | Python · Pandas · SQL · SQLite · Plotly · Streamlit · Matplotlib |
+| **Frontend** | React · TypeScript · JavaScript · Vite · HTML · CSS |
+| **Backend** | Node.js · Fastify · Express · REST APIs · JWT · Java · Spring Boot |
+| **Databases** | PostgreSQL · MongoDB · SQLite · Prisma |
+| **Tools & Practices** | Git · GitHub · Linux · Docker · Vitest · ESLint |
 
-React • TypeScript • JavaScript • Vite • HTML • CSS
+## 📌 Featured Projects
 
-**Backend**
+### 📊 [Sales Data Analysis & Business Intelligence Dashboard](https://github.com/lookjota/BusinessInt)
 
-Node.js • Fastify • Express • REST APIs • JWT • Java • Spring Boot
+An end-to-end portfolio project using **synthetic 2025 sales data**. It includes data preparation, SQL analysis, an interactive dashboard with region/category filters, sales KPIs, revenue trends, product comparisons, business insights and CSV export.
 
-**Banco de Dados**
+**Stack:** Python · Pandas · SQL · SQLite · Plotly · Streamlit
 
-PostgreSQL • MongoDB • Prisma
+**[🚀 Live Dashboard](https://businessint-esxxjbc4vbkhk4awtyb5ru.streamlit.app/)** · **[💻 Source Code](https://github.com/lookjota/BusinessInt)**
 
-**Ferramentas**
+### 🏠 Amigo do Lar
 
-Docker • Git • GitHub • Linux • Vitest • ESLint
+A web application for managing customers, services, quotes and appointments.
 
-## 📌 Principais Projetos
+**Stack:** React · TypeScript · Node.js · Fastify · PostgreSQL · Prisma · Docker
 
-### Amigo do Lar
+### ⚙️ Logos Page Engine
 
-Sistema completo para gerenciamento de clientes, serviços, orçamentos e agendamentos.
+A modular engine for reusable applications and landing pages focused on SEO and scalable architecture.
 
-**Stack:** React • TypeScript • Node.js • Fastify • PostgreSQL • Prisma • Docker
+**Stack:** React · TypeScript · Vite · SSR · SEO
 
-### Logos Page Engine
+## 🌱 Currently Learning
 
-Engine modular para construção de aplicações e landing pages reutilizáveis com foco em SEO e arquitetura escalável.
+- Data analysis, SQL, statistical reasoning and business KPIs
+- Python data workflows and dashboard development
+- Java, Spring Boot and backend architecture
+- Automated testing, Docker and CI/CD
 
-**Stack:** React • TypeScript • Vite • SSR • SEO
+## 🔗 Connect
 
-## 🌱 Atualmente estudando
+- **Portfolio:** [joaolisboa.dev](https://joaolisboa.dev)
+- **LinkedIn:** [joaocarloslisboa](https://www.linkedin.com/in/joaocarloslisboa/)
+- **GitHub:** [lookjota](https://github.com/lookjota)
 
-- Java
-- Spring Boot
-- Spring Data JPA
-- Hibernate
-- Arquitetura de Software
-- Testes Automatizados
-- Docker
-- CI/CD
+> The Sales BI project uses synthetic data for portfolio demonstration; figures do not represent actual business results.
